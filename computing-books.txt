@@ -1,0 +1,113 @@
+06/11/2015    Sam Newman                      Building Microservices
+04/11/2015    Seb Rose                        The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers
+20/08/2015    Vaughn Vernon                   Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka
+28/07/2015    Strickland, Robbie              Cassandra High Availability
+20/11/2014    Ebbes, Hendrik                  Mastering JavaFX 8 Controls
+21/07/2014    Cay S. Horstmann                Scala for the Impatient
+27/06/2014    Scott Oaks                      Java Performance: The Definitive Guide
+05/06/2014    Dea, Carl                       JavaFX 8: Introduction by Example
+02/04/2014    Horstmann, Cay S.               Java SE8 for the Really Impatient
+01/11/2013    Margolis, Michael               Arduino Cookbook
+17/10/2013    Johnston, Alan B..              WebRTC: APIs and RTCWEB Protocols of the HTML5 Real-Time Web
+16/10/2013    Fried, Jason, ..                Remote: Office Not Required
+21/07/2013    Masse, Mark                     REST API Design Rulebook
+05/07/2013    Lunn, Ian                       CSS3 Foundations
+06/06/2013    Martin Kalin                    Java Web Services: Up and Running
+22/11/2012    Douglas Crockford               JavaScript: The Good Parts
+29/06/2012    Eric A. Meyer                   CSS Pocket Reference
+06/12/2011    Venkat Subramaniam              Programming Concurrency on the JVM: Mastering Synchronization, STM, and Actors
+20/07/2011    Rod Strougo, ..                 Learning Cocos2D: A Hands-on Guide to Building IOSGames with Cocos2D, Box2D, and Chipmunk
+08/07/2011    Demarco, Tom                    Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
+08/07/2011    DeMarco, Tom, ..                Peopleware: Productive Projects and Teams
+21/04/2011    Fried, Jason, ...               ReWork
+14/04/2011    Taylor, Peter                   The Lazy Project Manager
+14/04/2011    Baker, Robert P.                The Trade Lifecycle: Behind the Scenes of the Trading Process (The Wiley Finance Series)
+23/02/2011    McGonigal, Jane                 Reality is Broken
+19/01/2011    Farley, David, ...              Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+23/02/2010    Irene Aldridge                  High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems
+08/02/2010    Bruno, Eric J.Bruno, Eric J.    Real-Time Java Programming: with Java RTS: With the Java Real-Time System
+04/02/2010    Many                            iPhone Cool Projects: Ten Great Development Projects for Your iPhone
+03/10/2010    Joshua Bloch, Neal Gafter       Java Puzzlers: Traps, Pitfalls, and Corner Cases
+07/04/2010    Brian Goetz, Bloch ...          Java Concurrency in Practice
+20/01/2010    Many                            Beginning iPhone Games Development
+26/12/2009    Mat Buckland                    Programming Game AI by Example
+06/12/2009    Ahearn                          3D Game Textures: Create Professional Game Art Using Photoshop
+26/05/2009    Martin, Robert C.               Clean Code: A Handbook of Agile Software Craftsmanship
+11/01/2009    Dave Mark                       Beginning iPhone Development: Exploring the iPhone SDK
+27/06/2008    Toby Segaran                    Programming Collective Intelligence: Building Smart Web 2.0 Applications
+24/01/2008    Frank Buschmann                 Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing
+08/09/2007    Haase, Chet                     Filthy Rich Clients: Developing Animated and Graphical Effects for Desktop Java Applications
+07/12/2006    Zukowski, John                  Java 6 Platform Revealed
+11/09/2006    Tuckman, Bruce                  Fixed Income Securities: Tools for Today's Markets
+15/03/2006    McAffer, Jeff                   Eclipse Rich Client Platform: Designing, Coding, and Packaging Java Applications
+15/03/2006    D'Anjou, Jim                    The Java Developer's Guide to Eclipse
+06/02/2006    David A Chappell                Enterprise Service Bus
+27/01/2006    Boehm, Barry                    Balancing Agility and Discipline: A Guide for the Perplexed
+25/01/2006    Tim Hatton                      SWT: A Developer's Notebook
+11/12/2005    Johnson, Rod                    Professional Java Development with the Spring Framework
+12/08/2005    Carlson, David                  Eclipse Distilled
+09/06/2005    Dubil, Robert                   An Arbitrage Guide to Financial Markets
+29/01/2005    Vermeulen, Alla                 The Elements of Java Style
+26/10/2004    Rod Johnson                     J2EE Development Without EJB, Expert One-on-One
+26/10/2004    Brett McLaughlin                Java 1.5 Tiger: A Developer's Notebook
+26/10/2004    Bruce A. Tate                   Better, Faster, Lighter Java
+30/03/2004    Frank Budinsky                  Eclipse Modeling Framework
+30/03/2004    Shavor, Sherry                  The Java Developer's Guide to Eclipse
+17/03/2004    Scott, Kendall                  Fast Track UML 2.0
+23/01/2004    David A Chappell                Java Message Service
+21/01/2004    Jerry Peek, ...                 Unix Power Tools
+25/11/2003    Gamma, Erich                    Contributing to Eclipse: Principles, Patterns and Plugins
+25/11/2003    Evans, Eric                     Domain-driven Design: Tackling Complexity in the Heart of Software
+22/10/2003    Palmer, Stephen R.              A Practical Guide to Feature Driven Development
+20/10/2003    Kevin Kline                     Transact-SQL Programming: Covers Microsoft SQL Server 6.5 /7.0 and Sybase Adaptive Server 11.5: Covers Microsoft SQL Server 7.0 and Sybase Adaptive Server 11.5
+13/10/2003    Magee, Jeff                     Concurrency : State Models & Java Programs
+01/10/2003    Tyagi, Sameer                   Core Java Data Objects
+23/09/2003    Coad, Peter                     Java Modeling in Color with UML: Enterprise Components and Process
+06/09/2003    Singh, Inderjeet                Designing Enterprise Applications with the J2EE Platform
+08/07/2003    Sal Mangano                     XSLT Cookbook: Solutions and Examples for XML and XSLT Developers
+16/06/2003    Zukowski, John                  Java Collections
+13/06/2003    Dave Pawson                     XSL-FO: Making XML Look Good in Print
+13/06/2003    Kunnumpurath, Meeraj Moidoo     JBoss 3.0 Deployment and Administration Handbook
+09/06/2003    Sedgewick, Robert               Algorithms in Java: Pts.1-4
+06/06/2003    Cagle, Kurt                     SVG Programming: The Graphical Web
+13/05/2003    Bayern                          JSTL in Action
+13/05/2003    Spielman, Sue                   The Struts Framework: Practical Guide for Java Programmers
+16/04/2003    Lerdorf, Rasmus                 Programming PHP
+16/04/2003    Douglas, Korry                  PostgreSQL
+17/02/2003    Barrett, Daniel                 SSH, the Secure Shell : The Definitive Guide
+23/11/2002    Fowler, Martin                  Patterns of Enterprise Application Architecture
+25/10/2002    Hatcher, Erik                   Java Development with Ant
+05/09/2002    Lotgering, Guy                  Universal Command Guide: for Operating Systems
+15/07/2002    Hall, Marty                     More Servlets and Javaserver Pages
+02/06/2002    Bennett, Simon                  Schaums Outlines: UML
+02/06/2002    Bloch, Joshua                   Effective Java
+06/02/2002    Roberts, S                      Complete Java 2 Certification Study Guide
+28/11/2001    Nielsen, Jakob                  Homepage Usability: 50 Websites Deconstructed
+02/11/2001    Carter, David E.                The Big Book of Design Ideas
+02/11/2001    Williams, Robin                 The Non-designer's Design Book: Design and Typographic Principles for the Visual Novice
+02/11/2001    Williams, Robin                 The Non-designer's Web Book
+12/09/2001    Schneider, Geri                 Applying Use Cases: A Practical Guide
+13/08/2001    Wutka, Mark                     Special Edition Using Java 2 Enterprise Edition (J2EE): With JSP, Servlets, EJB 2.0, JNDI, JMS, JDBC, CORBA, XML and RMI
+23/06/2000    Jones, T.Capers                 Estimating Software Costs
+08/06/2000    Weltman, Rob                    LDAP Programming with Java
+07/06/2000    Howes Ph.D., Timothy            Understanding and Deploying LDAP Directory Services
+12/05/2000    Kruchten, Philippe              The Rational Unified Process: An Introduction
+21/02/2000    Ayers, Danny                    Professional Java Server Programming with Servlets, JavaServer Pages (JSP), XML, Enterprise JavaBeans (EJB), JNDI, CORBA, Jini and Javaspace
+30/11/1999    Monson-Haefel, R                Enterprise JavaBeans
+21/09/1999    Fowler, Martin                  Refactoring: Improving the Design of Existing Code
+14/10/1999    Beck, Kent                      Extreme Programming Explained: Embrace Change
+22/08/1999    Burns, Joe                      JavaScript Goodies
+22/08/1999    David Flanagan                  JavaScript Pocket Reference
+12/08/1999    Lamport, Leslie                 LATEX: a Document Preparation System : User's Guide and Reference Manual
+13/05/1999    Fowler, Martin                  Analysis Patterns Reusable Object Models
+20/04/1999    Slama, Dirk                     Enterprise CORBA
+19/04/1999    Blakeley, Burnette              Messaging and Queuing Using the MQI
+02/04/1999    Booch, Grady                    Unified Modeling Language User Guide
+19/03/1999    Robertazzi                      Computer Networks and Systems
+19/03/1999    Takacs, Lajos                   Introduction to the Theory of Queues
+02/04/1999    Fowler, Martin                  UML Distilled: Applying the Standard Object Modelling Language
+13/02/1999    Harold, Elliotte R              XML
+09/02/1999    Brown, William J.               Anti-patterns: Refactoring Software, Architecture and Projects in Crisis
+09/02/1999    Lea, Doug                       AConcurrent Programming in Java: Design Principles and Patterns
+
+# .. earlier books not bought from amazon!
